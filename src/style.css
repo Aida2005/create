@@ -1,0 +1,35 @@
+.weather {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  background: url("https://uploads.tapatalk-cdn.com/20160227/ccd9e38d6372a8546c4a568e7e569891.jpg");
+  border-radius: 10px;
+  max-width: 600px;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+.Cloudly {
+  color: #d7d7d7;
+  padding-left: 250px;
+  font-size: 50px;
+}
+.grid {
+  padding-left: 150px;
+}
+
+.float-left {
+  padding-right: 220px;
+}
