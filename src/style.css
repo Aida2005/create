@@ -21,8 +21,11 @@ h3 {
 h4 {
   text-align: center;
 }
+span{
+  padding-left:50px;
+}
 a{
-  padding-right:50px;
+  padding-left:50px;
 }
 .Cloudly {
   color: #d7d7d7;
